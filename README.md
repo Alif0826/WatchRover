@@ -3,7 +3,6 @@
 ## Overview
 WatchRover is an IoT-enabled autonomous ground robot designed for disaster response and rough terrain navigation. It integrates autonomous navigation, real-time telemetry, edge-based vision processing, and human-in-the-loop control.
 
-Based on IEEE QPAIN 2026 research.
 
 ## Key Features
 - Autonomous navigation using LiDAR and sensor fusion
